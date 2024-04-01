@@ -1,6 +1,7 @@
 #PRUEBA TÉCNICA DE SELECCIÓN 2024 PARA PROGRAMADOR WEB EN MYM
 
-#CONCILIACIÓN PARA COBRAR DEUDAS DE CLIENTES 
+
+CASO:CONCILIACIÓN PARA COBRAR DEUDAS DE CLIENTES 
 De acuerdo a la descripción del caso(archivo adjunto .pptx); se debe desarrollar una aplicación web considerando sólo lo necesario para cumplir con el objetivo. La aplicación web debe interactuar con la base de datos; por lo tanto Ud. debe crear una base de datos con las tablas que crea necesario de acuerdo al caso presentado.
 
 Esperamos ver tus avances graduales en ciclos cortos. Esta prueba támbien se considera que tantos pull requests realices por cada avance pequeño que realices(menos de 100 lines de código). Por lo que te proponemos:
@@ -39,15 +40,18 @@ HERRAMIENTAS
 REGLAS
 El desarrollo de la aplicación se realizará respetando el patrón de diseño modelo–vista–controlador.
 
+
 PUBLICACIÓN
 El repositorio se pondrá en público y se compartirá el enlace por correo a: jmeza@mym.com.pe, gsaavedra@mym.com.pe y jtrillo@mym.com.pe
+
 
 RESULTADOS FINALES
 En el repositorio se espera lo siguiente:
 - CARPETA/DIRECTORIO DE LA APLICACIÓN.
 - Archivo requirements.txt (opcional)
 
+
 REFERENCIAS
-https://docs.python.org/3/index.html
-https://levelup.gitconnected.com/how-to-make-your-code-reviewer-fall-in-love-with-you-5d70320655ae
-https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
+- https://docs.python.org/3/index.html
+- https://levelup.gitconnected.com/how-to-make-your-code-reviewer-fall-in-love-with-you-5d70320655ae
+- https://docs.github.com/es/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo
