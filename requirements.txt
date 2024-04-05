@@ -1,0 +1,22 @@
+En este proyecto se a utilizado angular 12 con angular material version 12 
+Como backend python 3  y utilizando el framework flask para creacion de end points 
+a la ves , se utilizo sql server 2019 para crear la base de datos 
+
+
+OJO: para correr el proyecto en angular deberas descargar la version de angular 12@cli 
+al momento de descargar el proyecto en la misma terminar deberas irte a la carpeta del proyecto 
+y generar los componentes o librerias :
+  - ng build
+luego ejecutas ng serve para ejecutar el proyceto 
+en todo caso no ejectute instalar las demas depencias o cambiar de puerto 
+
+en python solo descargar las libreias de flask 
+y correr el achivo app.py
+
+en sql solo copiar y pegar los scripts :
+1.- crear bd
+2.- crear tablas
+3.- correr registros
+4.- ejecutar procedimientos
+
+
