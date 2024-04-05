@@ -1,5 +1,7 @@
 CREATE DATABASE EmployeeDB
 GO
+USE EmployeeDB
+GO
 	CREATE TABLE [dbo].[CUOTAS](
 	[idCuota] [int] IDENTITY(1,1) NOT NULL,
 	[nombreCuota] [varchar](50) NULL,
