@@ -1,0 +1,28 @@
+.example-card {
+    max-width: 400px;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .col {
+    margin: 10px; /* Espacio entre las tarjetas */
+  }
+
+  
+
+  .estado-true {
+    background-color: lightgreen; /* Color de fondo verde claro */
+  }
+  
+  .estado-false {
+    background-color: lightblue; /* Color de fondo azul claro */
+  }
+  

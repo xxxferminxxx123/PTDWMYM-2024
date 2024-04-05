@@ -1,0 +1,25 @@
+.example-button-row button,
+.example-button-row a {
+  margin-right: 8px;
+  margin-left: 8px;
+  margin-top: 8px;
+
+
+}
+.example-button-row{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right:20px;
+}
+
+table {
+  
+    width: 100%;
+  }
+  
+  .mat-form-field {
+    padding-top: 20px;
+    font-size: 14px;
+    width: 100%;
+  }

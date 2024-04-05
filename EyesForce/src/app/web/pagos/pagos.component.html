@@ -1,0 +1,26 @@
+<div class="container">
+    <div class="col">
+      <button mat-raised-button color="primary" (click)="openDialog()">Crear Cuotas</button>
+    </div>
+  </div>
+  
+  <div class="container">
+    <div class="row">
+      <div class="col" *ngFor="let item of items">
+        <mat-card class="example-card"  [ngClass]="{'estado-true': item.estado, 'estado-false': !item.estado}">
+          <mat-card-title>{{ item.title }}</mat-card-title>
+          <mat-card-content>
+            <p>{{ item.content }}</p>
+            <p>{{ item.estado}}</p>
+          </mat-card-content>
+          <mat-card-actions>
+            <!-- Pasa el monto de la cuota al método pagarCuota() -->
+            <button mat-button (click)="pagarCuota(item.content)">PAGAR</button>
+          </mat-card-actions>
+        </mat-card>
+      </div>
+    </div>
+  </div>
+
+  
+  

@@ -1,0 +1,10 @@
+<h1 mat-dialog-title>Ingrese el número de cuotas</h1>
+<div mat-dialog-content>
+  <mat-form-field>
+    <input matInput type="number" placeholder="Número" [(ngModel)]="numeros">
+  </mat-form-field>
+</div>
+<div mat-dialog-actions>
+  <button mat-button (click)="onNoClick()">Cancelar</button>
+  <button mat-button [mat-dialog-close]="numeros" cdkFocusInitial>Aceptar</button>
+</div>

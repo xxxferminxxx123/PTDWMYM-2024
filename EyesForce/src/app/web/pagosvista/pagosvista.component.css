@@ -1,0 +1,24 @@
+.container {
+  width: 100%; /* Ancho del contenedor principal */
+}
+
+.row {
+  display: flex;
+  justify-content: space-between; /* Distribuir el espacio entre los elementos de la fila */
+}
+
+table {
+  width: 100%; /* Ancho de la tabla */
+}
+
+
+button{
+  margin-top: 10px;
+  left: 10px;
+  margin-bottom: 10px;
+}
+
+
+.saldo-negativo {
+  background-color: #9bf7a7; /* Cambia el color de fondo de las filas con saldo negativo */
+}

@@ -1,0 +1,72 @@
+<div class="container">
+  <div class="row">
+    <button mat-button color="primary" (click)="openDialog()" [disabled]="isSaldoNegativo(selection.selected[0])">Pagar</button>
+  </div>
+
+  <div class="row">
+
+    <table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+      <!-- Checkbox Column -->
+      <ng-container matColumnDef="select">
+        <th mat-header-cell *matHeaderCellDef>
+          <mat-checkbox (change)="$event ? masterToggle() : null" [checked]="selection.hasValue() && isAllSelected()"
+            [indeterminate]="selection.hasValue() && !isAllSelected()" [aria-label]="checkboxLabel()">
+          </mat-checkbox>
+        </th>
+        <td mat-cell *matCellDef="let row">
+          <mat-checkbox (click)="$event.stopPropagation()" (change)="$event ? selection.toggle(row) : null"
+            [checked]="selection.isSelected(row)" [aria-label]="checkboxLabel(row)">
+          </mat-checkbox>
+        </td>
+      </ng-container>
+      <!-- ID Transaction Factura Column -->
+      <ng-container matColumnDef="idtransFactura">
+        <th mat-header-cell *matHeaderCellDef> ID Trans Factura </th>
+        <td mat-cell *matCellDef="let element"> {{element.idtransFactura}} </td>
+      </ng-container>
+
+      <!-- Fecha Vencimiento Column -->
+      <ng-container matColumnDef="fechaVencimiento">
+        <th mat-header-cell *matHeaderCellDef> Fecha Vencimiento </th>
+        <td mat-cell *matCellDef="let element"> {{element.fechaVencimiento}} </td>
+      </ng-container>
+
+      <!-- Monto Column -->
+      <ng-container matColumnDef="monto">
+        <th mat-header-cell *matHeaderCellDef> Monto </th>
+        <td mat-cell *matCellDef="let element"> {{element.monto}} </td>
+      </ng-container>
+
+      <!-- Saldo Column -->
+      <ng-container matColumnDef="saldo">
+        <th mat-header-cell *matHeaderCellDef> Saldo </th>
+        <td mat-cell *matCellDef="let element"> {{element.saldo}} </td>
+      </ng-container>
+
+      <!-- Pago Column -->
+      <ng-container matColumnDef="pago">
+        <th mat-header-cell *matHeaderCellDef> Pago </th>
+        <td mat-cell *matCellDef="let element"> {{element.pago}} </td>
+      </ng-container>
+
+      <!-- Sobra Column -->
+      <ng-container matColumnDef="sobra">
+        <th mat-header-cell *matHeaderCellDef> Sobra </th>
+        <td mat-cell *matCellDef="let element"> {{element.sobra}} </td>
+      </ng-container>
+
+
+
+
+      <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+      <tr mat-row *matRowDef="let row; columns: displayedColumns;" (click)="selection.toggle(row)" [class.saldo-negativo]="isSaldoNegativo(row)">
+      </tr>
+    </table>
+  </div>
+
+</div>
+
+
+<!-- Definición del modal -->
+

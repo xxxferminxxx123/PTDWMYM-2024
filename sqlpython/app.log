@@ -1,0 +1,207 @@
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:42:55] "[32mOPTIONS /api/pagos/crearCuotas HTTP/1.1[0m" 308 -
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:25] "OPTIONS /api/pagos/procedimiento/crearCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:27] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:29] "POST /api/pagos/procedimiento/crearCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:34] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:40] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:44:56] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:45:00] "OPTIONS /api/pagos/procedimiento/crearCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:45:00] "POST /api/pagos/procedimiento/crearCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:45:03] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:47:14] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:47:14] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:51:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 02:59:50] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:00:06] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:01:16] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:01:48] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:01:56] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:01:57] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:02:42] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:02:47] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:02:51] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:03:07] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:03:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:03:43] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:03:45] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:05] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:13] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:27] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:39] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:41] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:41] "POST /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:44] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:46] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:51] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:05:53] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:06:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:06:14] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:13:03] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:13:58] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:14:14] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:14:28] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:15:49] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:16:03] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:16:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:16:38] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:16:57] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:17:05] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:17:08] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:17:11] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:17:47] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:18:01] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:18:04] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:18:06] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:18:40] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:19:17] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:19:47] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:20:26] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:20:38] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:20:46] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:20:47] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:21:18] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:21:41] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:21:50] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:22:00] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:38:40] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:38:42] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:38:43] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:38:50] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:06] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:13] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:14] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:15] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:29] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:43] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:51] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:39:57] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:40:06] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:40:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:40:21] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:40:37] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:40:41] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:00] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:08] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:12] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:38] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:47] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:41:49] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:42:12] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:43:58] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:45:19] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:45:25] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:45:43] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:46:20] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:46:56] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:47:22] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:47:23] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:47:52] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:48:19] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:48:28] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:49:12] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:49:20] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:49:56] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:50:56] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:50:59] "OPTIONS /api/pagos/procedimiento/crearCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:50:59] "[31m[1mPOST /api/pagos/procedimiento/crearCuotas HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 03:51:21] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:01:28] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:01:31] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:01:42] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:01:59] "[31m[1mGET /api/pagos/procedimiento/pagar HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:02:07] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:02:32] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:02:49] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+ERROR:root:Error al ejecutar el procedimiento: ('Invalid parameter type.  param-index=1 param-type=dict', 'HY105')
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:02:50] "[35m[1mPOST /api/pagos/procedimiento/pagar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:02:54] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:09] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:15] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+ERROR:root:Error al ejecutar el procedimiento: ('Invalid parameter type.  param-index=1 param-type=dict', 'HY105')
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:15] "[35m[1mPOST /api/pagos/procedimiento/pagar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:18] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:19] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:19] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:20] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:29] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+ERROR:root:Error al ejecutar el procedimiento: ('Invalid parameter type.  param-index=1 param-type=dict', 'HY105')
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:03:29] "[35m[1mPOST /api/pagos/procedimiento/pagar HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\sqlpython\\api\\pagos.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 145-294-022
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:04:39] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:04:45] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:04:52] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+ERROR:root:Error al ejecutar el procedimiento: ('Invalid parameter type.  param-index=1 param-type=dict', 'HY105')
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:04:52] "[35m[1mPOST /api/pagos/procedimiento/pagar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:19] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:29] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:29] "POST /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:32] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:43] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:43] "POST /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:05:46] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:06] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:17] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:17] "POST /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:18] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:31] "OPTIONS /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:32] "POST /api/pagos/procedimiento/pagar HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:06:32] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:07:44] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:09:43] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:09:44] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:10:10] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:19] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:23] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:31] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:31] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:33] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:33] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:34] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:11:34] "GET /api/pagos/procedimiento/trasn_factura HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:15:09] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 04:15:26] "GET /api/pagos/procedimiento/getCuotas HTTP/1.1" 200 -
